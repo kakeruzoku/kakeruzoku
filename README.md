@@ -1,10 +1,11 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=kakeruzoku&color=brightgreen)
 ### Japanese
 こんにちは！かける族です。
 
 今していること:
 - discord botの開発 (https://www.kakeru.f5.si/discord/bot)
-- Scratch上でのSNS風システムの開発
+- [scapi](https://github.com/kakeruzoku/scapi ) - Scratch API Lib (Python)
 
 趣味:
 - Minecraft
@@ -31,7 +32,7 @@ Hello! I'm Kakeruzoku
 
 Currently in:
 - Discord bot development (https://www.kakeru.f5.si/discord/bot)
-- Development of a SNS-like system on Scratch
+- [scapi](https://github.com/kakeruzoku/scapi ) - Scratch API Lib (Python)
 
 Hobbies:
 - Minecraft
